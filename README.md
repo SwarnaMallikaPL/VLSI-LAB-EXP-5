@@ -61,7 +61,7 @@ endmodule
 ![image](https://github.com/SwarnaMallikaPL/VLSI-LAB-EXP-5/assets/160829667/9c48b7d8-076e-43e9-bc60-f93b112b44eb)
 
 **RESULT:**<br>
-&emsp;&emsp;Thus the simulation and implementation of Finite State MOORE Machine is is done and the outputs are verified successfully.
+&emsp;&emsp;Thus the simulation and implementation of Finite State MOORE Machine is done and the outputs are verified successfully.
 
 
 
