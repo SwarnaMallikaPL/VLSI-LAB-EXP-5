@@ -2,7 +2,7 @@
 
  **AIM:**<br> 
 
-&emsp;&emsp;To simulate and synthesis finite state machine using Xilinx ISE.
+&emsp;&emsp;To simulate and implement finite state machine using Vivado
 
 **APPARATUS REQUIRED:**<br>
 
